@@ -2,7 +2,7 @@
 
 Inflate Bruteforcer extracts information from files which use Deflate compression algorithm. It attempts to decompress data from each offset in a target file and stores decompressed data in separate files.
 
-The script was originally made for solving steganography CTF challenges which require extracting data from corrupted .zip/.png/.docx and other relatively small files. 
+The script was originally made for solving forensics/steganography CTF challenges which require extracting data from corrupted .zip/.png/.docx and other relatively small files. 
 
 # Install
 
